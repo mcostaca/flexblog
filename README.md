@@ -1,2 +1,3 @@
 # flexblog
-Utilizando flexbox
+
+Primeiro projeto utilizando as funcionalidades do flexbox
